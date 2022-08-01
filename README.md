@@ -16,6 +16,10 @@ rather compare 3 iterative algorithms:</p>
   - Newton’s method,
   - The secant method.
   
+<h2> Instalation </h2>
+
+      git clone git@github.com:Yahia-Abdchafee-ADAM/105torus.git 
+  
 <h2> Usage </h2>
   
   ![image](https://user-images.githubusercontent.com/91891487/182244698-8a8221cb-c229-4976-b598-2179c52c56a1.png)
